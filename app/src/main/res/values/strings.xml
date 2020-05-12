@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TelKey - Fast Telugu Keyboard</string>
+    <string name="telkey">TelKey</string>
+    <string name="subtype_en_US">English (US)</string>
+    <string name="subtype_te">Telugu</string>
+</resources>

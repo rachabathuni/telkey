@@ -1,0 +1,13 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="60dp"
+    >
+    <Row>
+        <Key android:codes="0x0C24,0x0C4D" android:keyLabel="త" />
+        <Key android:codes="0x0C25,0x0C4D" android:keyLabel="థ"/>
+        <Key android:codes="0x0C1F,0x0C4D" android:keyLabel="ట"/>
+        <Key android:codes="0x0C20,0x0C4D" android:keyLabel="ఠ" />
+    </Row>
+</Keyboard>
